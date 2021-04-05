@@ -1,0 +1,40 @@
+section {
+    background-color: rgb(100, 60, 50);
+
+
+}
+.logo {
+    width: 20%;
+}
+#hero img {
+    width: 100%;
+}
+header {
+    background-color: rgb(20, 50, 100);
+    padding-left: 20px;
+}
+header nav {
+    float: left;
+}
+section table {
+    overflow: auto;
+    float: right;
+}
+table td {
+    border:maroon;
+}
+article {
+    width: 50%;
+    display:inline-block;
+}
+form * {
+    width: 50%;
+}
+footer {
+    width: 50px;
+    background-color: salmon;
+    text-align: center;
+}
+body {
+    margin: auto;
+}
